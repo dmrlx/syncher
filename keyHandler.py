@@ -34,7 +34,6 @@ if __name__ == "__main__":
     import subprocess
 
     def function():
-    #    subprocess.call('ping tut.by', shell=True)
         check = 0
         while True:
             print('{} Goin\'...'.format(check))
